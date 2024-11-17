@@ -1,0 +1,33 @@
+Resultados de la optimización del tamaño de la fuerza de trabajo:
+
+Semana 1:
+  Trabajadores mínimos requeridos: 5
+  Fuerza de trabajo óptima: 5
+  Costo de la decisión: $1400.00
+  Acción: Contratar 5 trabajadores
+
+Semana 2:
+  Trabajadores mínimos requeridos: 7
+  Fuerza de trabajo óptima: 8
+  Costo de la decisión: $1300.00
+  Acción: Contratar 3 trabajadores
+
+Semana 3:
+  Trabajadores mínimos requeridos: 8
+  Fuerza de trabajo óptima: 8
+  Costo de la decisión: $0.00
+  Acción: Mantener la fuerza de trabajo actual
+
+Semana 4:
+  Trabajadores mínimos requeridos: 4
+  Fuerza de trabajo óptima: 6
+  Costo de la decisión: $600.00
+  Acción: Despedir 2 trabajadores
+
+Semana 5:
+  Trabajadores mínimos requeridos: 6
+  Fuerza de trabajo óptima: 6
+  Costo de la decisión: $0.00
+  Acción: Mantener la fuerza de trabajo actual
+
+Costo total de la optimización: $3300.00
