@@ -1,0 +1,2 @@
+# TareaProgramacionDinamica
+Metodos Cuantitativos
