@@ -1,4 +1,4 @@
 # TareaProgramacionDinamica
-Metodos Cuantitativos
-Jean Odriozola 29.569.900
+Metodos Cuantitativos <br>
+Jean Odriozola 29.569.900 <br>
 Annuar Abouharb 30.350.953
